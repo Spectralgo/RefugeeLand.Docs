@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is Refugee.Land](README.md)
+* [API Docs](https://docs.refugee.land/v/api-docs/)
 
 ## Guides
 

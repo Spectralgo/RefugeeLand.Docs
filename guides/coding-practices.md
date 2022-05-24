@@ -23,3 +23,15 @@ test of call out blocks
 {% hint style="warning" %}
 
 {% endhint %}
+
+<div class="alert alert-danger" role="alert">
+    <div class="row vertical-align">
+        <div class="col-xs-1 text-center">
+            <i class="fa fa-exclamation-triangle fa-2x"></i>
+        </div>
+        <div class="col-xs-11">
+                <strong>Error:</strong>
+          <p>Test lorem ipsum</p>
+        </div>   
+    </div> 
+</div>

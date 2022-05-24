@@ -1,7 +1,13 @@
 # Table of contents
 
 * [What is Refugee.Land](README.md)
-* [API Docs](https://docs.refugee.land/v/api-docs/)
+* [Core Api Docs](https://docs.refugee.land/v/api-docs/)
+* [Mobile App Docs](https://docs.refugee.land/v/mobile-docs/)
+* [Web App Docs](https://docs.refugee.land/v/web-docs/)
+* [Architecture](https://docs.refugee.land/v/architecture-docs/)
+* [Ideas & Proposals](https://docs.refugee.land/v/ideas-and-proposals/)
+* [Dev Logs & Content](https://docs.refugee.land/v/dev-logs-and-content/)
+* [The Standard FAQ](https://docs.refugee.land/v/the-standard-faq/)
 
 ## Guides
 

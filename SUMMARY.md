@@ -14,7 +14,7 @@
 * [The Standard](guides/the-standard.md)
 * [Coding Practices](guides/coding-practices.md)
 * [Creating your first PR](guides/creating-your-first-pr.md)
-* [Test file](creating-your-first-pr.md)
+* [Test file](guides/test-file.md)
 
 ## Fundamentals
 

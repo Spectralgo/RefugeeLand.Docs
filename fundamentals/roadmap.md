@@ -1,5 +1,18 @@
 # Roadmap
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
+### Refugee.Core Api 0.1.0&#x20;
+
+* [ ] Refugee has RefugeeGroup
+  * [ ] CONTROLLER Post Refugee
+  * [ ] Controller Get Refugess
+  * [ ] Controller Post RefugeeGroup
+* [ ] Host has Shelter
+* [ ] Host create ShelterOffer
+* [ ] Refugee can look at ShelterOffers
+* [ ] Refugee sends a ShelterRequest for a particular ShelterOffer
+* [ ] Host sees ShelterRequests
+* [ ] Host accept or reject ShelterRequest
+
+### Refugee.Core Api 0.2.0&#x20;
+
+*

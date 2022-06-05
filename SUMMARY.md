@@ -1,8 +1,8 @@
 # Table of contents
 
+* [✏ EDITOR MODE](https://app.gitbook.com/invite/xnkHrW3hLr8Q7LzRfdRW/2gOt8sHU9C35UUyduR7X)
 * [What is Refugee.Land](README.md)
 * [Roadmap](roadmap-and-releases/roadmap.md)
-* [✏ EDITOR MODE](https://app.gitbook.com/invite/xnkHrW3hLr8Q7LzRfdRW/2gOt8sHU9C35UUyduR7X)
 
 ## The Standard
 

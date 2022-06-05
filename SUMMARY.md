@@ -1,7 +1,7 @@
 # Table of contents
 
-* [What is Refugee.Land](RefugeeLand.Docs.Project/README.md)
-* [Roadmap](RefugeeLand.Docs.Project/roadmap.md)
+* [What is Refugee.Land](roadmap-and-release/README.md)
+* [Roadmap](roadmap.md)
 * [ ✏ EDITOR MODE](https://app.gitbook.com/invite/xnkHrW3hLr8Q7LzRfdRW/2gOt8sHU9C35UUyduR7X)
 
 ## The Standard 

@@ -11,7 +11,9 @@
 
 ## Guides
 
-* [Code Practices](guides/coding-practices.md)
+* [Code Practices](guides/coding-practices/README.md)
+  * [Common Issues](guides/coding-practices/common-issues/README.md)
+    * [How To Resolve EF Migrations ?](guides/coding-practices/common-issues/how-to-resolve-ef-migrations.md)
 * [Creating your first PR](guides/creating-your-first-pr.md)
 
 ## Fundamentals
@@ -29,9 +31,7 @@
   * [Brokers](docs/refugeeland.core/brokers/readme.md)
   * [Deployment](docs/refugeeland.core/deployement/readme.md)
 * [RefugeeLand.Mobile](docs/refugeeland.mobile/readme.md)
-  *
 * [RefugeeLand.web](docs/refugeeland.web/readme.md)
-  *
 
 ## Use Cases / Stories
 
@@ -45,7 +45,6 @@
 ## Architecture / Diagrams
 
 * [Refugee.Land Project Architecture](architecture-and-diagrams/refugeeLand-project-architecture.md)
-*
 * [Mobile Architecture](docs/refugeeland.mobile/architecture.md)
 * [Web Architecture](docs/refugeeland.web/architecture.md)
 
@@ -57,5 +56,5 @@
 
 * [Youtube Channels](dev-logs-and-content/readme.md)
   * [Hassan Habib](dev-logs-and-content/hassan.md)
-  * [Elbek](dev-logs-and-content/elbek.md)
+  * [Elbek](dev-logs-and-content/dev-logs-and-content/elbek.md)
   * [Florian](dev-logs-and-content/florian.md)

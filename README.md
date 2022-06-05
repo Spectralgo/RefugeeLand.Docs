@@ -61,7 +61,7 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/roadmap.md" %}
-[roadmap.md](fundamentals/roadmap.md)
+[roadmap.md](roadmap.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

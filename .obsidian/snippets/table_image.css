@@ -1,0 +1,6 @@
+.markdown-preview-view table, .markdown-preview-view th, .markdown-preview-view td{
+    border: none;
+}
+thead {
+    visibility: hidden;
+}

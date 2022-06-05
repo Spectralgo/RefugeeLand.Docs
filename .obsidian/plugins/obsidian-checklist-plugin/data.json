@@ -1,0 +1,36 @@
+{
+  "todoPageName": "todo\nwip",
+  "showChecked": true,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "Youtube To Watch Later.md",
+    "$  Parse text file c.md",
+    "$ Convert client to vite client.md",
+    "📁 Daily Notes/2022-03-12.md",
+    "$ My resume is done.md",
+    "$ I understand LinkedIn Marketing.md",
+    "$ MVP Portfolio.md",
+    "$ J'ai mis en place GTD avec a weekly review.md",
+    "$ MyWork section is done.md",
+    "$ Faire le tuto de raw coding.md",
+    "$ Youtube dl script.md",
+    "$ fix the dot navigation.md",
+    "📁 Templates/SubStory.md",
+    "📁 Templates/📁 Templater/Backlog Template.md",
+    "Css survival kit.md",
+    "Documentariste.md",
+    "$ Préparer questions  csharp dotnet.md"
+  ],
+  "_hiddenTags": [
+    "todo"
+  ],
+  "sortDirection": "old->new",
+  "ignoreFiles": "Template"
+}

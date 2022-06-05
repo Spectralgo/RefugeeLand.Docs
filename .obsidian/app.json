@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "vimMode": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

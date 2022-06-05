@@ -2,7 +2,7 @@
 
 ### Refugee.Core Api 0.1.0
 
-Refugee has RefugeeGroup:
+🎯 Refugee has RefugeeGroup:
 - [ ] INFRA
 	- [x] INFRA: Initialize API Project
 	- [x] INFRA: Initialize Build Pipelines
@@ -60,7 +60,7 @@ Refugee has RefugeeGroup:
 	- [ ] BROKERS: Update RefugeeGroup
 	* [ ] BROKERS: Delete RefugeeGroup
 
-Host has Shelters:
+🎯 Host has Shelters:
 * [ ] CONTROLLERS
 	* [ ] CONTROLLER: POST Host
 	* [ ] CONTROLLER: GET All Hosts
@@ -72,11 +72,13 @@ Host has Shelters:
 	* [ ] CONTROLLER: GET Specific Shelter by Id
 	* [ ] CONTROLLER: PUT Shelter
 	* [ ] CONTROLLER: DELETE Shelter
-* [ ] Host create ShelterOffer
-* [ ] Refugee can look at ShelterOffers
-* [ ] Refugee sends a ShelterRequest for a particular ShelterOffer
-* [ ] Host sees ShelterRequests
-* [ ] Host accept or reject ShelterRequest
+
+
+🎯 Host create ShelterOffer
+🎯 Refugee can look at ShelterOffers
+🎯 Refugee sends a ShelterRequest for a particular ShelterOffer
+🎯 Host sees ShelterRequests
+🎯 Host accept or reject ShelterRequest
 
 ### Refugee.Core Api 0.2.0
 

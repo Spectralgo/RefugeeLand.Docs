@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1367e79971281657",
+        "id": "2d8e78e7fe05ca2e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "roadmap-and-releases/roadmap.md",
+            "file": "SUMMARY.md",
             "mode": "source",
             "source": false
           }
@@ -18,19 +18,31 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "1367e79971281657",
+              "leaf": "2d8e78e7fe05ca2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SUMMARY.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":8},\"to\":{\"line\":3,\"ch\":8}}}"
+            },
+            {
+              "leaf": "2d8e78e7fe05ca2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"dev-logs-and-content/florian.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "2d8e78e7fe05ca2e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap-and-releases/roadmap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":16},\"to\":{\"line\":27,\"ch\":16}},\"scroll\":0.4107142857142857}"
+              "eState": "{\"scroll\":54.6348}"
             },
             {
-              "leaf": "1367e79971281657",
+              "leaf": "2d8e78e7fe05ca2e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"dev-logs-and-content/hassan.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SUMMARY.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
             },
             {
-              "leaf": "1367e79971281657",
+              "leaf": "2d8e78e7fe05ca2e",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -84,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53758837b86e32f6",
@@ -101,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap-and-releases/roadmap.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1367e79971281657",
+  "active": "2d8e78e7fe05ca2e",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "dev-logs-and-content/florian.md",
     "roadmap-and-releases/roadmap.md",
+    "RefugeeLand.Docs.Project/roadmap.md",
     "dev-logs-and-content/hassan.md",
     "roadmap-and-release/README.md",
-    "SUMMARY.md",
     "README.md",
     "architecture-and-diagrams/refugeeLand-project-architecture.md",
     "fundamentals/projects.md",
-    "dev-logs-and-content/florian.md",
-    "dev-logs-and-content/readme.md",
-    "ideas-and-proposals/suggested-features.md"
+    "dev-logs-and-content/readme.md"
   ]
 }

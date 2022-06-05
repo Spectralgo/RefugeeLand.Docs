@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is Refugee.Land](README.md)
-* [Roadmap](RefugeeLand.Docs.Project/roadmap.md)
+* [Roadmap](roadmap-and-releases/roadmap.md)
 * [✏ EDITOR MODE](https://app.gitbook.com/invite/xnkHrW3hLr8Q7LzRfdRW/2gOt8sHU9C35UUyduR7X)
 
 ## The Standard
@@ -27,7 +27,7 @@
   * [Controllers](docs/refugeeland.core/controles/readme.md)
   * [Services](docs/refugeeland.core/services/readme.md)
   * [Brokers](docs/refugeeland.core/brokers/readme.md)
-  * [Deployement](docs/refugeeland.core/deployement/readme.md)
+  * [Deployment](docs/refugeeland.core/deployement/readme.md)
 * [RefugeeLand.Mobile](docs/refugeeland.mobile/readme.md)
   *
 * [RefugeeLand.web](docs/refugeeland.web/readme.md)
@@ -57,5 +57,5 @@
 
 * [Youtube Channels](dev-logs-and-content/readme.md)
   * [Hassan Habib](dev-logs-and-content/hassan.md)
-  *
+  * [Elbek](dev-logs-and-content/elbek.md)
   * [Florian](dev-logs-and-content/florian.md)

@@ -4,7 +4,7 @@ description: >-
   setup to prevent migration conflicts.
 ---
 
-# How To Resolve EF Migrations ?
+# EF Migration Strategy
 
 ## Process to prevent conflict
 
@@ -48,9 +48,7 @@ For dotnet CLI
 
 https://passos.com.au/overcoming-ef-core-migration-conflicts/ https://jkdev.me/handling-ef-core-migrations/
 
-#### Notes from this blog post:
-
-#### Resolving conflicts
+### Resolving EF Migrations conflicts
 
 Might be obvious, but just to mention here:
 

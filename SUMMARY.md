@@ -13,7 +13,7 @@
 
 * [Code Practices](guides/coding-practices/README.md)
   * [Common Issues](guides/coding-practices/common-issues/README.md)
-    * [How To Resolve EF Migrations ?](guides/coding-practices/common-issues/how-to-resolve-ef-migrations.md)
+    * [EF Migration Strategy](guides/coding-practices/common-issues/ef-migration-strategy.md)
 * [Creating your first PR](guides/creating-your-first-pr.md)
 
 ## Fundamentals

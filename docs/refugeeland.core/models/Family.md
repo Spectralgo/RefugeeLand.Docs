@@ -1,6 +1,6 @@
-# Family 
+# Family
 
-```cs
+```csharp
 public class Family : IAuditable
 {
     public Guid Id { get; set; }

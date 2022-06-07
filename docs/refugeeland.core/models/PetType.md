@@ -1,6 +1,6 @@
 # PetType
 
-```cs
+```csharp
 enum PetType
 {
 	Dog,

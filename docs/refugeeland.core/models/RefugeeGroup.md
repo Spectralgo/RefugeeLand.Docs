@@ -1,4 +1,6 @@
-```cs
+# RefugeeGroup
+
+```csharp
 public class RefugeeGroup : IAuditable
 {
 	public Guid Id { get; set; }

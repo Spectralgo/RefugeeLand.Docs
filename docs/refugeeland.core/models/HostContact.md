@@ -1,6 +1,6 @@
 # HostContact
 
-```cs
+```csharp
 public class HostContact
 {
     public Guid ContactId { get; set; }

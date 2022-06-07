@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ideas-and-proposals/suggested-features.md",
+            "file": "SUMMARY.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,20 @@
             {
               "leaf": "38fe7e49847e3156",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SUMMARY.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":52},\"to\":{\"line\":66,\"ch\":52}},\"scroll\":32.0554}"
+            },
+            {
+              "leaf": "38fe7e49847e3156",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":18.30081466395112}"
+            },
+            {
+              "leaf": "38fe7e49847e3156",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ideas-and-proposals/suggested-features.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "38fe7e49847e3156",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas-and-proposals/suggested-features.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,15 +154,15 @@
   },
   "active": "38fe7e49847e3156",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "README.md",
     "ideas-and-proposals/suggested-features.md",
     "use-cases-stories/for-hosts.md",
-    "README.md",
     "use-cases/for-refugees/README.md",
     "use-cases/for-refugees/looking-for-shelter.md",
     "use-cases/for-engineers/open-source-contribution.md",
     "use-cases/for-hosts/README.md",
     "roadmap-and-releases/roadmap.md",
-    "SUMMARY.md",
     "docs/refugeeland.core/models/TwoPartyAgreement.md"
   ]
 }

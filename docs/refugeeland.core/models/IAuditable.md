@@ -1,6 +1,6 @@
 # IAuditable
 
-```csharp
+```cs
 public interface IAuditable
 {
     DateTimeOffset CreatedDate { get; set; }

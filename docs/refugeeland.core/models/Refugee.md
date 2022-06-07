@@ -1,6 +1,6 @@
 # Refugee
 
-```csharp
+```cs
 class Refugee : IAuditable
 {
 	public Guid Id { get; set; }

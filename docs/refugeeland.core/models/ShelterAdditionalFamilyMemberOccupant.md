@@ -1,6 +1,4 @@
-# ShelterAdditionalFamilyMemberOccupant
-
-```csharp
+```cs
 public class ShelterAdditionalFamilyMemberOccupant
 {
     public Guid ShelterId { get; set; }

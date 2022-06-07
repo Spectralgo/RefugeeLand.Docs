@@ -1,6 +1,4 @@
-# ShelterOfferStatus
-
-```csharp
+```cs
 public enum ShelterOfferStatus
 {
     PENDING,

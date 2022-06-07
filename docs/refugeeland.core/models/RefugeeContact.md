@@ -1,6 +1,6 @@
 # RefugeeContact
 
-```csharp
+```cs
 public class RefugeeContact
 {
     public Guid ContactId { get; set; }
@@ -10,3 +10,4 @@ public class RefugeeContact
     public Refugee Refugee { get; set; }
 }
 ```
+

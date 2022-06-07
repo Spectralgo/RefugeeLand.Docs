@@ -1,6 +1,6 @@
 # Host
 
-```csharp
+```cs
 class Host : IAuditable
 {
 	public Guid Id { get; set; }
@@ -26,3 +26,5 @@ class Host : IAuditable
 	
 }
 ```
+
+

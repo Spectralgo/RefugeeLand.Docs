@@ -1,6 +1,5 @@
-# Shelter
 
-```csharp
+```cs
 public class Shelter : IAuditable
 {
 	public Guid Id { get; set; }
@@ -40,3 +39,4 @@ public class Shelter : IAuditable
 	    AdditionalFamilyMemberOccupants { get; set; }
 }
 ```
+

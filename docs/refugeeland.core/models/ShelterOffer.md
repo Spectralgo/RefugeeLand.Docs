@@ -1,6 +1,6 @@
 # ShelterOffer
 
-```csharp
+```cs
 public class ShelterOffer : IAuditable
 {
     public Guid Id { get; set; }

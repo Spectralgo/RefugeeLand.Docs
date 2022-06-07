@@ -1,6 +1,6 @@
 # AdditionalFamilyMember
 
-```csharp
+```cs
 public class AdditionalFamilyMember
 {
 	public Guid Id { get; set; }

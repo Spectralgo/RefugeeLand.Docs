@@ -1,8 +1,6 @@
-# AdditionalFamilyMemeberContact
-
 AdditionalFamilyMemberContact
 
-```csharp
+```cs
 public class AdditionalFamilyMemberContact
 {
     public Guid ContactId { get; set; }

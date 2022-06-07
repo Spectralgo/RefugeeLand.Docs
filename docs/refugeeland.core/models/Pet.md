@@ -1,6 +1,6 @@
 # Pet
 
-```csharp
+```cs
 class Pet
 {
     public Guid Id { get; set; }

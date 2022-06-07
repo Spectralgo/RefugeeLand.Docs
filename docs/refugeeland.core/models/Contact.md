@@ -1,6 +1,6 @@
 # Contact
 
-```csharp
+```cs
 public class Contact : IAuditable
 {
     public Guid Id { get; set; }
@@ -15,7 +15,7 @@ public class Contact : IAuditable
     public Guid UpdatedBy { get; set; }
 
     [JsonIgnore]
-    public IEnumerable<RefugeeContact> RefugeeContacts { get; set; }
+    public IEnumerable<RefugeeContact> RefugeeContacts { get; set; }
     [JsonIgnore]
     public IEnumerable<HostContact> HostContacts { get; set; }	
     [JsonIgnore]

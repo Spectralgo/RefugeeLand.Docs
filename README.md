@@ -27,11 +27,11 @@ Feel free to join our community. Help us build a platform for people fleeing war
 
 ## Project Updates From Hassan Habib
 
-<img src="https://www.searchmarketingaustralia.com.au/wp-content/uploads/2017/10/original_images_YouTube.png" alt="" data-size="line"> [RFG000: Refugee Land App - Kick Off](https://www.youtube.com/watch?v=Xc88O841rT4\&t=137s)
+<img width=20 src="https://www.searchmarketingaustralia.com.au/wp-content/uploads/2017/10/original_images_YouTube.png" alt="" data-size="line"> [RFG000: Refugee Land App - Kick Off](https://www.youtube.com/watch?v=Xc88O841rT4\&t=137s)
 
 ## Live Coding Sessions Playlist From The Community
 
-<img src="https://www.searchmarketingaustralia.com.au/wp-content/uploads/2017/10/original_images_YouTube.png" alt="" data-size="line"> [Refugee Land Archive](https://www.youtube.com/watch?v=Zia-4Jwx6hY\&list=PLT0Ot-qg4JPKfEfMIv\_WrSaur4dVgPc1p)
+<img width=20 src="https://www.searchmarketingaustralia.com.au/wp-content/uploads/2017/10/original_images_YouTube.png" alt="" data-size="line"> [Refugee Land Archive](https://www.youtube.com/watch?v=Zia-4Jwx6hY\&list=PLT0Ot-qg4JPKfEfMIv\_WrSaur4dVgPc1p)
 
 ## Nice to Know
 

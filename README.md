@@ -10,6 +10,8 @@ Feel free to join our community. Help us build a platform for people fleeing war
 
 ## What are we building at the moment?
 
+### RefugeeLand Core API
+* [Gihub Repo](https://github.com/hassanhabib/Refugee.Core)
 * [Roadmap](https://docs.refugee.land/roadmap)
 * [Models](https://docs.refugee.land/docs/refugeeland.core/models)
 

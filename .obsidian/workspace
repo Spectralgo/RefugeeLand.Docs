@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d8e78e7fe05ca2e",
+        "id": "38fe7e49847e3156",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "roadmap-and-releases/roadmap.md",
+            "file": "ideas-and-proposals/suggested-features.md",
             "mode": "source",
             "source": false
           }
@@ -18,37 +18,13 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "2d8e78e7fe05ca2e",
+              "leaf": "38fe7e49847e3156",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap-and-releases/roadmap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":26},\"to\":{\"line\":80,\"ch\":26}},\"scroll\":54.6348}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ideas-and-proposals/suggested-features.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "2d8e78e7fe05ca2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SUMMARY.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":21.108164689462665}"
-            },
-            {
-              "leaf": "2d8e78e7fe05ca2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"dev-logs-and-content/florian.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2d8e78e7fe05ca2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap-and-releases/roadmap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":54.6348}"
-            },
-            {
-              "leaf": "2d8e78e7fe05ca2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SUMMARY.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2d8e78e7fe05ca2e",
+              "leaf": "38fe7e49847e3156",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -118,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap-and-releases/roadmap.md",
+                "file": "ideas-and-proposals/suggested-features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d8e78e7fe05ca2e",
+  "active": "38fe7e49847e3156",
   "lastOpenFiles": [
+    "ideas-and-proposals/suggested-features.md",
+    "use-cases-stories/for-hosts.md",
+    "README.md",
+    "use-cases/for-refugees/README.md",
+    "use-cases/for-refugees/looking-for-shelter.md",
+    "use-cases/for-engineers/open-source-contribution.md",
+    "use-cases/for-hosts/README.md",
     "roadmap-and-releases/roadmap.md",
     "SUMMARY.md",
-    "dev-logs-and-content/florian.md",
-    "RefugeeLand.Docs.Project/roadmap.md",
-    "dev-logs-and-content/hassan.md",
-    "roadmap-and-release/README.md",
-    "README.md",
-    "architecture-and-diagrams/refugeeLand-project-architecture.md",
-    "fundamentals/projects.md",
-    "dev-logs-and-content/readme.md"
+    "docs/refugeeland.core/models/TwoPartyAgreement.md"
   ]
 }

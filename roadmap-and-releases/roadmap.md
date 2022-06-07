@@ -61,6 +61,15 @@
 	* [ ] BROKERS: Delete RefugeeGroup
 
 ### 🎯 Host has Shelters:
+- [ ] DATA
+	- [ ] DATA: Add Host Model & Migrations
+		- [ ] Contatinformation 
+		- [ ] Shelters
+	- [ ] DATA: Add Shelter Model & Migrations
+		- [ ] Pets
+	- [ ] DATA: Enums 
+		- [ ] PetType renaming
+
 * [ ] CONTROLLERS
 	* [ ] CONTROLLER: POST Host
 	* [ ] CONTROLLER: GET All Hosts
@@ -73,6 +82,30 @@
 	* [ ] CONTROLLER: PUT Shelter
 	* [ ] CONTROLLER: DELETE Shelter
 
+- [ ] FOUNDATION SERVICES 
+	- [ ] FOUNDATIONS: Add Host
+	* [ ] FOUNDATIONS: Retrieve All Hosts
+	* [ ] FOUNDATIONS: Retrieve Specific Host by Id
+	* [ ] FOUNDATIONS: Modify Host 
+	* [ ] FOUNDATIONS: Remove Host
+	- [ ] FOUNDATIONS: Add Shelter
+	* [ ] FOUNDATIONS: Retrieve All Shelters
+	* [ ] FOUNDATIONS: Retrieve Specific Shelter
+	* [ ] FOUNDATIONS: Modify Shelter
+	* [ ] FOUNDATIONS: Remove Shelter
+
+- [ ] BROKERS
+	- [ ] BROKERS: Setup Storage Broker
+	- [ ] BROKERS: Insert Host
+	* [ ] BROKERS: Select All Hosts
+	* [ ] BROKERS: Select Specific Host by Id
+	- [ ] BROKERS: Update Host
+	* [ ] BROKERS: Delete Host
+	- [ ] BROKERS: Insert Shelter
+	* [ ] BROKERS: Select All Shelters
+	* [ ] BROKERS: Select Specific Shelter by Id
+	- [ ] BROKERS: Update Shelter
+	* [ ] BROKERS: Delete Shelter
 
 ### 🎯 Host create ShelterOffer
 

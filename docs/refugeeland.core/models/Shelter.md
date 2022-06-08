@@ -4,7 +4,11 @@
 public class Shelter : IAuditable
 {
 	public Guid Id { get; set; }
+	public string Name { get; set; }
+
 	public Guid HostId { get; set; }
+	public Host Host { get; set; }
+
 	public string ShelterType { get; set; }
 	public string Location { get; set; }
 	public string AdditionalDetails { get; set; }
@@ -23,11 +27,11 @@ public class Shelter : IAuditable
 	public ShelterStatus Status { get; set; }
 	public IList<AllowedPet> AllowedPets { get; set; }
 	
-    DateTimeOffset CreatedDate { get; set; }
-    DateTimeOffset UpdatedDate { get; set; }
-    Guid CreatedBy { get; set; }
-    Guid UpdatedBy { get; set; }
-
+	DateTimeOffset CreatedDate { get; set; }
+	DateTimeOffset UpdatedDate { get; set; }
+	Guid CreatedBy { get; set; }
+	Guid UpdatedBy { get; set; }
+	
 
     [JsonIgnore]
     public IList<ShelterRefugeeOccupant> ShelterRefugeeOccupants { get; set; }

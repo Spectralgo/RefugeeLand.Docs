@@ -25,7 +25,7 @@
 
 * [RefugeeLand.Core](docs/refugeeland.core/README.md)
   * [Api Architecture](docs/refugeeland.core/architecture/README.md)
-    * [Refugee has RefugeeGroup](docs/refugeeland.core/architecture/refugee-as-refugee-group.md)
+    * [🎯 Refugee has RefugeeGroup](docs/refugeeland.core/architecture/refugee-as-refugee-group.md)
     * [🎯Host has Shelters](docs/refugeeland.core/architecture/host-has-shelters.md)
     * [🎯Host create ShelterOffer](docs/refugeeland.core/architecture/host-create-shelteroffer.md)
     * [🎯 Refugee can look at ShelterOffers](docs/refugeeland.core/architecture/refugee-can-look-at-shelteroffers.md)

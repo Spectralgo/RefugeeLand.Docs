@@ -1,3 +1,5 @@
 # Refugee as Refugee Group
 
-<img src="../../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+![](<../../../.gitbook/assets/Refugee Land Core API 0.1.0.jpg>)
+
+{% file src="../../../.gitbook/assets/Refugee Land Core API 0.1.0.drawio" %}

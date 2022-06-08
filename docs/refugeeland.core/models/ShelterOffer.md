@@ -21,8 +21,5 @@ public class ShelterOffer : IAuditable#
 
     [JsonIgnore]
     public IList<ShelterRequest> ShelterRequests { get; set; }
-	
-    [JsonIgnore]
-    public IList<RefugeeGroup> RefugeeGroups { get; set; }
 }
 ```

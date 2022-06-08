@@ -14,7 +14,7 @@ public class ShelterRequest : IAuditable
     public Guid RefugeeGroupId { get; set; }
     public RefugeeGroup RefugeeGroup { get; set; }
 
-    public Guid RefugeeId { get; set; }
+    public Guid RefugeeApplicantId { get; set; }
     public Refugee RefugeeApplicant { get; set; }
 
     public DateTimeOffset CreatedDate { get; set; }

@@ -11,12 +11,6 @@ public class ShelterOffer : IAuditable
     public Guid ShelterId { get; set; }
     public Shelter Shelter { get; set; }
 	
-    public Guid ShelterRequestId { get; set; }
-    public ShelterRequest ShelterRequest { get; set; }
-
-    public Guid RefugeeGroupId { get; set; }
-    public RefugeeGroup RefugeeGroup { get; set; }
-
     public Guid HostId { get; set; }
     public Host Host { get; set; }
 
@@ -24,5 +18,11 @@ public class ShelterOffer : IAuditable
     public DateTimeOffset UpdatedDate { get; set; }
     public Guid CreatedBy { get; set; }
     public Guid UpdatedBy { get; set; }
+
+	[JsonIgnore]
+    public IList<ShelterRequest> ShelterRequests { get; set; }
+	
+	[JsonIgnore]
+    public IList<RefugeeGroup> RefugeeGroups { get; set; }
 }
 ```

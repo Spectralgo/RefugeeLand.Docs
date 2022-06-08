@@ -8,8 +8,8 @@ public class ShelterRequest : IAuditable
     public DateTimeOffset EndDate { get; set; }
     public ShelterRequestStatus Status { get; set; }
 
-    public Guid ShelterId { get; set; }
-    public Shelter Shelter { get; set; }
+    public Guid ShelterOfferId { get; set; }
+    public ShelterOffer ShelterOffer { get; set; }
 
     public Guid RefugeeGroupId { get; set; }
     public RefugeeGroup RefugeeGroup { get; set; }

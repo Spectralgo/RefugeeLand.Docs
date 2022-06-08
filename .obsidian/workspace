@@ -4,138 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "38fe7e49847e3156",
+        "id": "4952630034a37998",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/refugeeland.core/refugee-as-refugee-group.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "38fe7e49847e3156",
+              "leaf": "4952630034a37998",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/refugee-as-refugee-group.md\",\"mode\":\"preview\",\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterRefugeeOccupant.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterHostOccupant.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/TwoPartyAgreement.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":9},\"to\":{\"line\":1,\"ch\":28}},\"scroll\":0}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterOffer.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":47}}}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterStatus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":4},\"to\":{\"line\":3,\"ch\":10}},\"scroll\":0}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/Shelter.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":0.5280271778694492}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterRequestStatus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":13}}}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterRequest.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterOffer.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":22},\"to\":{\"line\":22,\"ch\":22}}}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterRequest.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":21},\"to\":{\"line\":13,\"ch\":21}}}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterOfferStatus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":13}}}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterRequestStatus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterStatus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterOfferStatus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":4},\"to\":{\"line\":5,\"ch\":13}}}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterOffer.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":30},\"to\":{\"line\":8,\"ch\":30}},\"scroll\":0}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap-and-releases/roadmap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":111,\"ch\":28},\"to\":{\"line\":111,\"ch\":28}},\"scroll\":1.6056782334384858}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterRequest.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/refugeeland.core/models/ShelterOffer.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
-            },
-            {
-              "leaf": "38fe7e49847e3156",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap-and-releases/roadmap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -202,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/refugeeland.core/refugee-as-refugee-group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "38fe7e49847e3156",
+  "active": "4952630034a37998",
   "lastOpenFiles": [
     "docs/refugeeland.core/refugee-as-refugee-group.md",
     "docs/refugeeland.core/models/ShelterRefugeeOccupant.md",

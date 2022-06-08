@@ -1,4 +1,4 @@
-# 🎯 Refugee can look at ShelterOffers
+# Refugee can look at ShelterOffers
 
 ![](<../../../.gitbook/assets/Refigee can look at ShelterOffers.jpg>)
 

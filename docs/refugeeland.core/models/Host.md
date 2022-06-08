@@ -9,7 +9,6 @@ class Host : IAuditable
 	public string AdditionalDetails { get; set; }
 	public Gender Gender { get; set; }
 	public DateTimeOffset BirthDate { get; set; }
-	public IList<Shelter> Shelters { get; set; }
 	public IList<Languages> Languages { get; set; }
 	public IList<Nationality> Nationalities { get; set; }
 	
@@ -22,7 +21,9 @@ class Host : IAuditable
     public Guid UpdatedBy { get; set; }
 	
     [JsonIgnore]
-    public IEnumerable<HostContact> HostContacts { get; set; }
-	
+    public IList<HostContact> HostContacts { get; set; }
+    [JsonIgnore]
+    public IList<Shelter> Shelters { get; set; }
+
 }
 ```

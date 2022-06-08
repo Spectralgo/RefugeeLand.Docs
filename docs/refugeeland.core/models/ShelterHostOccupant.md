@@ -1,4 +1,6 @@
-```cs
+# ShelterHostOccupant
+
+```csharp
 public class ShelterHostOccupant
 {
     public Guid ShelterId { get; set; }

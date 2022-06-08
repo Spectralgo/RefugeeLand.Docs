@@ -1,10 +1,12 @@
-```
+# ShelterStatus
+
+```csharp
 public enum ShelterStatus
 {
     VACANT,
     PARTIALLY_OCCUPIED,
     FULL,
-	INMAINTENANCE,
+    IN_MAINTENANCE,
     CLOSED
 }
 ```

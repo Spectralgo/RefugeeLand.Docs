@@ -1,6 +1,6 @@
-# ContactType (enum)
+# ContactType
 
-```cs
+```csharp
 public enum ContactType
 {
     Email,

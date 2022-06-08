@@ -8,6 +8,16 @@ We believe everyone should be able to feel safe.
 
 Feel free to join our community. Help us build a platform for people fleeing war-torn countries, natural disasters, and other threats.
 
+Refugee land is an application that connects refugees to property owners with free lodging space. This allows for quick response during disasters which renders citizens of any country to gain free and temporary lodging.
+
+The aim is to allow for the public to gain free access to resources available to them in any country.
+
+For example; If there is a tsunami in the coastal regions of Madagascar, the government there may not have the infrastructure or systems in place to help relocate families at short notice. The affected families will be guided to our application from Red Cross or other humanitarian aid services to allow them to seek for advertised lodging in other areas of the country that have not been affected by the disaster.
+
+Home owners can advertise rooms or any other forms of shelter to provide the family members a place to stay temporarily until they are rehabilitated by their government.
+
+Both parties can filter and restrict different types of individuals on a trust basis.
+
 ## What are we building at the moment?
 
 ### Refugee.Land Core API

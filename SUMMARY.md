@@ -28,6 +28,7 @@
     * [🎯 Refugee has RefugeeGroup](docs/refugeeland.core/architecture/refugee-as-refugee-group.md)
     * [🎯Host has Shelters](docs/refugeeland.core/architecture/host-has-shelters.md)
     * [🎯Host create ShelterOffer](docs/refugeeland.core/architecture/host-create-shelteroffer.md)
+    * [🎯 Refugee can look at ShelterOffers](docs/refugeeland.core/architecture/refugee-can-look-at-shelteroffers.md)
   * [Models](docs/refugeeland.core/models/readme.md)
     * [AdditionalFamilyMember](docs/refugeeland.core/models/AdditionalFamilyMember.md)
     * [AdditionalFamilyMemeberContact](docs/refugeeland.core/models/AdditionalFamilyMemeberContact.md)

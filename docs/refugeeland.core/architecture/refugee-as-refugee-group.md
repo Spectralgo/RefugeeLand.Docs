@@ -1,4 +1,4 @@
-# Refugee as Refugee Group
+# 🎯 Refugee has RefugeeGroup
 
 ![](<../../../.gitbook/assets/Refugee Land Core API 0.1.0.jpg>)
 

@@ -26,7 +26,7 @@
 * [RefugeeLand.Core](docs/refugeeland.core/README.md)
   * [Api Architecture](docs/refugeeland.core/architecture/README.md)
     * [🎯 Refugee has RefugeeGroup](docs/refugeeland.core/architecture/refugee-as-refugee-group.md)
-  * [🎯Host has Shelters](docs/refugeeland.core/host-has-shelters.md)
+    * [🎯Host has Shelters](docs/refugeeland.core/architecture/host-has-shelters.md)
   * [Models](docs/refugeeland.core/models/readme.md)
     * [AdditionalFamilyMember](docs/refugeeland.core/models/AdditionalFamilyMember.md)
     * [AdditionalFamilyMemeberContact](docs/refugeeland.core/models/AdditionalFamilyMemeberContact.md)

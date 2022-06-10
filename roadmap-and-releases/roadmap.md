@@ -2,7 +2,7 @@
 
 ## Refugee.Core Api 0.1.0
 
-### 🎯 Refugee has RefugeeGroup
+### 🎯 [Refugee has RefugeeGroup](../docs/refugeeland.core/architecture/refugee-as-refugee-group.md)
 
 * [ ] INFRA
   * [x] INFRA: Initialize API Project

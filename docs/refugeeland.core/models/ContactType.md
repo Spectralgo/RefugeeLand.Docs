@@ -3,9 +3,9 @@
 ```csharp
 public enum ContactType
 {
-    Email,
-    Phone,
-    CellPhone,
-    Other
+    EMAIL,
+    PHONE,
+    CELLPHONE,
+    OTHER
 }
 ```

@@ -1,7 +1,7 @@
 # Shelter
 
 ```csharp
-public class Shelter : IAuditable
+public class Shelter
 {
 	public Guid Id { get; set; }
 	public string Name { get; set; }
@@ -25,7 +25,8 @@ public class Shelter : IAuditable
 	public bool IsShared { get; set; }
 	public string SharedSpaceDetails { get; set; }
 	public ShelterStatus Status { get; set; }
-	public IList<AllowedPet> AllowedPets { get; set; }
+	
+	public IEnumerable<AllowedPet> AllowedPets { get; set; }
 	
 	DateTimeOffset CreatedDate { get; set; }
 	DateTimeOffset UpdatedDate { get; set; }
@@ -34,13 +35,13 @@ public class Shelter : IAuditable
 	
 
     [JsonIgnore]
-    public IList<ShelterRefugeeOccupant> ShelterRefugeeOccupants { get; set; }
+    public IEnumerable<ShelterRefugeeOccupant> ShelterRefugeeOccupants { get; set; }
 	
     [JsonIgnore]
-    public IList<ShelterHostOccupant> ShelterHostOccupants { get; set; }
+    public IEnumerable<ShelterHostOccupant> ShelterHostOccupants { get; set; }
 	
     [JsonIgnore]
-    public IList<AdditionalFamilyMemberOccupant> 
+    public IEnumerable<AdditionalFamilyMemberOccupant> 
 	    AdditionalFamilyMemberOccupants { get; set; }
 }
 ```

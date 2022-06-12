@@ -1,7 +1,7 @@
 # Contact
 
 ```csharp
-public class Contact : IAuditable
+public class Contact 
 {
     public Guid Id { get; set; }
     public bool IsPrimary { get; set; }
@@ -16,10 +16,13 @@ public class Contact : IAuditable
 
     [JsonIgnore]
     public IEnumerable<RefugeeContact> RefugeeContacts { get; set; }
+
     [JsonIgnore]
     public IEnumerable<HostContact> HostContacts { get; set; }	
+
     [JsonIgnore]
     public IEnumerable<HostContact> AdditionalFamilyMemberContacts { get; set; }	
+
     [JsonIgnore]
     public IEnumerable<UserContact> UserContacts { get; set; }	
 }

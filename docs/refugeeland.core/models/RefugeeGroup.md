@@ -1,11 +1,12 @@
 # RefugeeGroup
 
 ```csharp
-public class RefugeeGroup : IAuditable
+public class RefugeeGroup 
 {
         public Guid Id { get; set; }
         public string Name { get; set; }
-        
+
+		//One who speaks for the group during negotiations and requests
         public Guid RefugeeRepresentativeId { get; set; }
         public Refugee RefugeeRepresentative { get; set; }
         
@@ -15,6 +16,6 @@ public class RefugeeGroup : IAuditable
         public Guid UpdatedBy { get; set; }
             
         [JsonIgnore]
-        public IList<Refugee> Refugees { get; set; }
+        public IEnumerable<Refugee> Refugees { get; set; }
 }
 ```

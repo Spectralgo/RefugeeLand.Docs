@@ -1,0 +1,11 @@
+```cs
+enum HostDocumentStatus
+{
+	TO_UPLOAD,
+	UPLOADING,
+	UPLOADED,
+	UPLOAD_FAILED,
+	NOTFOUND,
+	DELETED
+} 
+```

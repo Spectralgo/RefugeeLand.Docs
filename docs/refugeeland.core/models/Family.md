@@ -1,7 +1,7 @@
 # Family
 
 ```csharp
-public class Family : IAuditable
+public class Family 
 {
     public Guid Id { get; set; }
 	public string Name { get; set; }
@@ -12,12 +12,12 @@ public class Family : IAuditable
     public Guid UpdatedBy { get; set; }
 
     [JsonIgnore]
-	public IList<Refugee> RefugeeMembers { get; set; }
+	public IEnumerable<RefugeeFamilyMembership> RefugeeFamilyMembers { get; set; }
 
     [JsonIgnore]
-	public IList<Host> HostMembers { get; set; }
+	public IEnumerable<RefugeeFamilyMembership> HostFamilyMembers { get; set; }
 
     [JsonIgnore]
-	public IList<AdditionalFamilyMembers> AdditionalFamilyMembers { get; set; }
+	public IEnumerable<AdditionalFamilyMembership> AdditionalFamilyMembers { get; set; }
 }
 ```

@@ -20,7 +20,8 @@ class Refugee
 	public bool IsOpenToWork { get; set; }
 	
 	
-    public IEnumerable<SkillSet> SkillSets { get; set; }
+    [JsonIgnore]
+    public IEnumerable<RefugeeSkillSet> SkillSets { get; set; }
 
 
     [JsonIgnore]

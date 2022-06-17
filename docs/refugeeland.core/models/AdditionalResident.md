@@ -1,6 +1,4 @@
-# AdditionalFamilyMember
-
-```csharp
+```cs
 public class AdditionalFamilyMember
 {
 	public Guid Id { get; set; }
@@ -18,9 +16,7 @@ public class AdditionalFamilyMember
     public Guid UpdatedBy { get; set; }
 	
     [JsonIgnore]
-    public IEnumerable<AdditionalFamilyMemberContact> AdditonalFamilyMemberContacts { get; set; }
+    public IEnumerable<AdditionalResidentContact> AdditonalResidentContacts { get; set; }
 
-    [JsonIgnore]
-    public IEnumerable<AdditionalFamilyMembership> AdditionalFamilyMemberships { get; set; }
 }
 ```

@@ -5,6 +5,6 @@ public enum ShelterOfferStatus
 {
     PENDING,
     APPROVED,
-    CANCELLED
+    Deleted
 }
 ```

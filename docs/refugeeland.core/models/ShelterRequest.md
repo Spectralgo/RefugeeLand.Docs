@@ -1,7 +1,7 @@
 # ShelterRequest
 
 ```csharp
-public class ShelterRequest : IAuditable
+public class ShelterRequest
 {
     public Guid Id { get; set; }
     public DateTimeOffset StartDate { get; set; }

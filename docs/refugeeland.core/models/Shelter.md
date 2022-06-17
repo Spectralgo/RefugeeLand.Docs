@@ -3,36 +3,35 @@
 ```csharp
 public class Shelter
 {
-	public Guid Id { get; set; }
-	public string Name { get; set; }
+    public Guid Id { get; set; }
+    public string Name { get; set; }
 
-	public Guid HostId { get; set; }
-	public Host Host { get; set; }
+    public Guid HostId { get; set; }
+    public Host Host { get; set; }
 
-	public string ShelterType { get; set; }
-	public string Location { get; set; }
-	public string AdditionalDetails { get; set; }
-	public int MaximumCapacity { get; set; }
-	public int BedroomNumber { get; set; } 
-	public int SingleBedNumber { get; set; }
-	public int DoubleBedNumber { get; set; }
-	public int ChildBedNumber { get; set; }
-	public int BabyBedNumber { get; set; }
-	public bool IsSmokingAllowed { get; set; }
-	public bool IsPetAllowed { get; set; }
-	public bool IsHandicappedAccessible { get; set; }
-	public bool IsVerified { get; set; }
-	public bool IsShared { get; set; }
-	public string SharedSpaceDetails { get; set; }
-	public ShelterStatus Status { get; set; }
-	
-	public IEnumerable<AllowedPet> AllowedPets { get; set; }
-	
+    public string Location { get; set; }
+    public string AdditionalDetails { get; set; }
+    public int MaximumCapacity { get; set; }
+    public int BedroomNumber { get; set; }
+    public int SingleBedNumber { get; set; }
+    public int DoubleBedNumber { get; set; }
+    public int ChildBedNumber { get; set; }
+    public int BabyBedNumber { get; set; }
+    public bool IsSmokingAllowed { get; set; }
+    public bool IsPetAllowed { get; set; }
+    public bool IsHandicappedAccessible { get; set; }
+    public bool IsVerified { get; set; }
+    public ShelterStatus Status { get; set; }
+    public ShelterType Type { get; set; }
+    public ShelterPropertyType PropertyType { get; set; }
+        public IEnumerable<AllowedPet> AllowedPets { get; set; }
+
 	DateTimeOffset CreatedDate { get; set; }
 	DateTimeOffset UpdatedDate { get; set; }
 	Guid CreatedBy { get; set; }
 	Guid UpdatedBy { get; set; }
-	
+
+
 
     [JsonIgnore]
     public IEnumerable<ShelterRefugeeOccupant> ShelterRefugeeOccupants { get; set; }
@@ -43,5 +42,9 @@ public class Shelter
     [JsonIgnore]
     public IEnumerable<AdditionalFamilyMemberOccupant> 
 	    AdditionalFamilyMemberOccupants { get; set; }
+
+    [JsonIgnore]
+    public IEnumerable<AdditionalResidentOccupant> 
+	    AdditionalResidentOccupants { get; set; }
 }
 ```

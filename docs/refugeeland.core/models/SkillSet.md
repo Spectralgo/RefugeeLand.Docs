@@ -1,4 +1,4 @@
-# RefugeeSkillSet
+# SkillSet
 
 ```cs
 class RefugeeSkillSet
@@ -7,6 +7,7 @@ class RefugeeSkillSet
 	public string Name { get; set; }
 	public int YearsOfExperience { get; set; }
 	public int YearsOfStudy { get; set; }
+	public bool Certificate { get; set; }
 	public string AdditionalDetails { get; set; }
 
 	public Guid RefugeeId { get; set; }

@@ -6,6 +6,8 @@ description: >-
 
 # EF Migration Strategy
 
+
+
 ## Process to prevent conflict
 
 1. You are about to submit a pull request with a database migration inside.
@@ -29,7 +31,6 @@ For dotnet CLI
 {% endembed %}
 
 ### Stack Overflow
-
 [How to unapply a migration in asp net core with EF Core](https://stackoverflow.com/questions/38192450/how-to-unapply-a-migration-in-asp-net-core-with-ef-core)
 
 ### MS Docs
@@ -68,3 +69,16 @@ We learn from challenges and although this was a quite painful one, we did learn
 ### YouTube Migrations Tutorials
 
 https://youtu.be/YUmSwR6jjlU?t=55
+
+### Unapply migration (if your database  was already updated)
+```shell
+//step 1 reverting last migartion
+dotnet ef database update <previous-good-migration>
+
+
+//step 2 remove migration files by hand, there is no command, keep the snapshot file.
+
+//step 3 remove the last migration from the snapshot
+dotnet ef migrations remove 
+
+```

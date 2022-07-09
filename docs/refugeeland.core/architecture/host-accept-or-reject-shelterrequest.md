@@ -1,4 +1,4 @@
-# 🎯 Host accept or reject ShelterRequest
+# Host accept or reject ShelterRequest
 
 ###
 
